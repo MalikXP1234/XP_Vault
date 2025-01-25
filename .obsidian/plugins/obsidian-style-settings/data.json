@@ -1,5 +1,7 @@
 {
-  "encore-settings@@theme-light": "encore-theme-light",
-  "encore-settings@@theme-dark": "encore-theme-dark-materialocean",
-  "encore-settings@@colors": "encore-colors-colorful"
+  "encore-settings@@theme-light": "encore-theme-light-sterling",
+  "encore-settings@@theme-dark": "encore-theme-dark-glass-royale",
+  "encore-settings@@colors": "encore-colors-colorful",
+  "encore-settings@@encore-translucency": true,
+  "encore-settings@@encore-translucency-strength": 0.05
 }
