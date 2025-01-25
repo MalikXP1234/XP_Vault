@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "CraftMine/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "Untitled"
             }
           }
         ],
@@ -190,8 +190,11 @@
   },
   "active": "ce795691735f3ce2",
   "lastOpenFiles": [
-    "Test.md",
     "Readme.md",
+    "CraftMine/Untitled.md",
+    "Car Renting App",
+    "CraftMine",
+    "Test.md",
     "CraftMine/1 - CraftMine.md",
     "CraftMine/2 - Plans.md",
     "CraftMine/3 - Bugs.md",
