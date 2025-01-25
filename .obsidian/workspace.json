@@ -13,26 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Car Renting App/1 - Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
-            }
-          },
-          {
-            "id": "ce795691735f3ce2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "1 - Introduction"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,6 +86,7 @@
       {
         "id": "a0f2e6b81d4c10f4",
         "type": "tabs",
+        "dimension": 60.94961240310077,
         "children": [
           {
             "id": "9353f41d49804eaf",
@@ -165,7 +155,15 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "ec6c63f146387049",
+        "type": "tabs",
+        "dimension": 39.05038759689923,
+        "children": [
           {
             "id": "e7a63995f4d43e93",
             "type": "leaf",
@@ -176,12 +174,11 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce795691735f3ce2",
+  "active": "ee80dbe06398473d",
   "lastOpenFiles": [
     "CraftMine/3 - Bugs and fixes.md",
     "Car Renting App/3 - Bugs and fixes.md",
