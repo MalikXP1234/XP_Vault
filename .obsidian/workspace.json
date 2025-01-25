@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee80dbe06398473d",
+  "active": "2e29fa44eb08e4ce",
   "lastOpenFiles": [
     "Test.md",
     "CraftMine/1 - CraftMine.md",
