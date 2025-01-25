@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Readme"
             }
           }
         ],
@@ -190,8 +190,8 @@
   },
   "active": "ce795691735f3ce2",
   "lastOpenFiles": [
-    "Readme.md",
     "Test.md",
+    "Readme.md",
     "CraftMine/1 - CraftMine.md",
     "CraftMine/2 - Plans.md",
     "CraftMine/3 - Bugs.md",
