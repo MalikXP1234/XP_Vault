@@ -10,5 +10,9 @@ My first Python style app will be a banking app. This is a typical app that's al
 
 Current I have no style planned for my banking app. Maybe something with purple?
 
+I can Lloyd's style for the design of the banking app for now (will change)
+
 I will contains various programming styles to enhance the user experience such as using good list and variables for the data.
+
+
 
