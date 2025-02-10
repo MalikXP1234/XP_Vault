@@ -12,6 +12,8 @@ Current I have no style planned for my banking app. Maybe something with purple?
 
 I can Lloyd's style for the design of the banking app for now (will change)
 
+> [[Pasted image 20250210224118.png]]
+
 I will contains various programming styles to enhance the user experience such as using good list and variables for the data.
 
 
