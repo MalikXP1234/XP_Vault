@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CraftMine/1 - Introduction.md",
+                "file": "Banking App/2 - Layout and code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - Introduction"
+              "title": "2 - Layout and code"
             }
           }
         ],
@@ -205,12 +205,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cff711e3695a433a",
+  "active": "2e29fa44eb08e4ce",
   "lastOpenFiles": [
-    "Banking App/1 - Introduction.md",
-    "Banking App/Pasted image 20250210224118.png",
-    "CraftMine/1 - Introduction.md",
     "Car Renting App/2 - Layout and code.md",
+    "Banking App/2 - Layout and code.md",
+    "Banking App/1 - Introduction.md",
+    "CraftMine/1 - Introduction.md",
+    "Banking App/Pasted image 20250210224118.png",
     "Car Renting App/1 - Introduction.md",
     "Car Renting App/3 - Bugs and fixes.md",
     "Untitled.md",
