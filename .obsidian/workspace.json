@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "2 - Layout and code"
             }
+          },
+          {
+            "id": "15896636ae9e26c7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,7 +217,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e29fa44eb08e4ce",
+  "active": "15896636ae9e26c7",
   "lastOpenFiles": [
     "Car Renting App/2 - Layout and code.md",
     "Banking App/2 - Layout and code.md",
