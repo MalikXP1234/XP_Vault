@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Car Renting App/1 - Introduction.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - Introduction"
+              "title": "Readme"
             }
           }
         ],
@@ -244,8 +244,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e29fa44eb08e4ce",
+  "active": "cb367c8b41865632",
   "lastOpenFiles": [
+    "Car Renting App/1 - Introduction.md",
     "Readme.md",
     "Banking App/1 - Introduction.md",
     "CraftMine/1 - Introduction.md",
@@ -255,7 +256,6 @@
     "CraftMine/2 - Layout and code.md",
     "Banking App/Pasted image 20250210224118.png",
     "Car Renting App/3 - Bugs and fixes.md",
-    "Car Renting App/1 - Introduction.md",
     "Untitled.md",
     "Banking App",
     "Car Renting App",
