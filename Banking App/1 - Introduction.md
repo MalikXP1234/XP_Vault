@@ -1,4 +1,4 @@
-My first Python style app will be a banking app. This is a typical app that's allows you to manage your banking app, this will include:
+DMy first Python style app will be a banking app. This is a typical app that's allows you to manage your banking app, this will include:
 
 - `Signing/Login` 
 - `Managing your account`
