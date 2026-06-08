@@ -11,20 +11,14 @@
             "id": "ee80dbe06398473d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "CraftMine/2 - Layout and code.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "2 - Layout and code"
             }
           },
           {
@@ -212,14 +206,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "53408b2a0b04fe99",
+  "active": "ee80dbe06398473d",
   "lastOpenFiles": [
+    "Merlock the Wizard/1 - Introduction.md",
+    "CraftMine/1 - Introduction.md",
+    "Merlock the Wizard/4 - TaskBoard.md",
+    "Merlock the Wizard",
     "Untitled.base",
-    "Untitled Kanban.md",
     "Banking App/1 - Introduction.md",
     "Car Renting App/2 - Layout and code.md",
     "Car Renting App/1 - Introduction.md",
-    "CraftMine/1 - Introduction.md",
     "Car Renting App/3 - Bugs and fixes.md",
     "Readme.md",
     "Untitled 1.base",
