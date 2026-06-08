@@ -6,6 +6,14 @@ kanban-plugin: board
 
 ## To-Do
 
+- [ ] Enemies having HP bar
+- [ ] Theme Music
+- [ ] Boss Music
+- [ ] Adding More Abilities
+- [ ] Different Enemy tyes
+- [ ] Different player Region
+- [ ] score system
+- [ ] Player Level system
 
 
 ## Progress
