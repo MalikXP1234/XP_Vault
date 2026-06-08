@@ -14,6 +14,7 @@ kanban-plugin: board
 - [ ] Different player Region
 - [ ] score system
 - [ ] Player Level system
+- [ ] Shop system
 
 
 ## Progress
