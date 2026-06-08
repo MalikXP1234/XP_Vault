@@ -10,7 +10,8 @@ kanban-plugin: board
 - [ ] Theme Music
 - [ ] Boss Music
 - [ ] Adding More Abilities
-- [ ] Different Enemy tyes
+- [ ] [ ] Different Enemy types
+	-
 - [ ] Different player Region
 - [ ] score system
 - [ ] Player Level system
