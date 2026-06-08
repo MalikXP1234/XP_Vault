@@ -8,11 +8,19 @@ kanban-plugin: board
 
 - [ ] Enemies having HP bar
 - [ ] Theme Music
-- [ ] Boss Music
-- [ ] Adding More Abilities
-- [ ] [ ] Different Enemy types
+- [ ] [ ] Boss Music
 	-
+- [ ] Adding More Abilities
+- [ ] Different Enemy types
+	- Shooter
+	- Attacker
+	- Spawner
 - [ ] Different player Region
+	- GrassLand
+	- Forest
+	- Ice
+	- Cave
+	- Volcano
 - [ ] score system
 - [ ] Player Level system
 - [ ] Shop system
